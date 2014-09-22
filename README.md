@@ -1,2 +1,2 @@
-JWTS.github.io
-==============
+jwts.github.com
+===============
